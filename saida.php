@@ -23,7 +23,7 @@
 		</head>
 	<body>
 
-		<h1 align="center">Tabuada Automática</h1>
+		<h1 align="center">Tabuada</h1>
 
 		<?php
 			for ($i=$Inicial; $i <= $Final; $i++) { 
